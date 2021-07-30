@@ -1,5 +1,5 @@
 /*
-A Simple Solution is to consider every character of ‘str1’ and check if all occurrences of it map to same character in ‘str2’. 
+A Simple Solution is to consider every character of â€˜str1â€™ and check if all occurrences of it map to same character in â€˜str2â€™. 
 Time complexity of this solution is O(n*n).
 
 My approach: Use map
@@ -14,7 +14,7 @@ TC=O(n)
 SC=O(n)
 
 */
-#include<bits/stdc++.h>
+#include<bits/stdc++.h>  //OPTIONAL
 #include<iostream>
 #include<cstring>
 #include <unordered_map>
